@@ -1,4 +1,4 @@
-<h1>Welcome, I'm Iphithule Gumede! <br/><a href="https://github.com/Gumede">System Administrator</a>, <a href="https://www.linkedin.com/in/iphithule-gumede-3966b9219//">AspiringCybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Welcome, I'm Iphithule Gumede! <br/><a href="https://github.com/Gumede">System Administrator</a>, <a href="https://www.linkedin.com/in/iphithule-gumede-3966b9219//">Aspiring Cybersecurity Professional</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

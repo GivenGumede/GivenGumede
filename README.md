@@ -4,9 +4,12 @@
 
 - <b>Active Directory Home Lab </b>
 
-<h2>👨‍💻certificate:</h2>
-- <b>Comptia A+ </b>
+<h2>👨‍💻Badges:</h2>
+- <b>Credly:</b> (https://www.credly.com/users/iphithule-gumede.2c1a101b/badges)
 
+<h2>👨‍💻certificates:</h2>
+- <b>Comptia A+ </b>
+- <b>Comptia N+</b>
 <h2>📺 Popular YouTube Videos</h2>
 
 

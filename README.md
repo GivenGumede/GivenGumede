@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Projects:</h2>
 
-<h3>Windows server Home Labs</h3>
+<h3>Windows server Home Lab:</h3>
 <h4>Windows server2016 setup and promoting the server to domain controller: https://github.com/GivenGumede/GivenGumede/assets/172982934/dc1d4180-83cc-4c21-be73-18f3a8abe6d4)
  </h4>
  <h5>Joined windows 10 Pc to domain:(https://github.com/GivenGumede/GivenGumede/assets/172982934/57f8372a-609c-4e07-a085-8eb85d190dab)
@@ -11,6 +11,8 @@
 <b>-virtualization</b>
 <h5><b>-windows server administration (Joining PC's to the domain, Password resets, security groups & distribution groups)</b></h5>
 <h5><b>-Building hybrid environment using Entra connect</b></h5>
+
+<h3>Cisco Packet Tracer Activites:</h3>
 
 
 

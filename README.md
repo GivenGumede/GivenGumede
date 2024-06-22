@@ -1,8 +1,10 @@
-<h1>Welcome, I'm Iphithule Gumede! <br/><a href="https://github.com/IphithuleGumede">System Administrator</a>, <a href="https://www.linkedin.com/in/iphithule-gumede-3966b9219//">Aspiring Cybersecurity Professional</a></a></h1>
+<h1>Welcome, I'm Iphithule Gumede! <br/>, <a href="https://www.linkedin.com/in/iphithule-gumede-3966b9219//">Aspiring Cybersecurity Professional</a></a></h1>
 
 <h2>👨‍💻Projects:</h2>
 
-- <b>Active Directory Home Lab </b>
+<h3>Home Labs</h3>
+<a href="https://github.com/IphithuleGumede">System Administrator</a>
+
 
 
 <h2>👨‍💻Badges:</h2>

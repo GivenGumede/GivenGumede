@@ -3,7 +3,9 @@
 <h2>👨‍💻Projects:</h2>
 
 <h3>Home Labs</h3>
-<a href="https://github.com/IphithuleGumede">System Administrator</a>
+<h4>Windows server2016 setup and promoting the server to domain controller: https://github.com/GivenGumede/GivenGumede/assets/172982934/dc1d4180-83cc-4c21-be73-18f3a8abe6d4)
+ </h4>
+
 
 
 
